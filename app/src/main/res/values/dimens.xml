@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_extra_small">2dp</dimen>
+    <dimen name="spacing_very_small">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_semi_large">24dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+    <dimen name="spacing_extra_large">64dp</dimen>
+
+    <dimen name="text_extra_extra_large">48sp</dimen>
+    <dimen name="text_extra_large">34sp</dimen>
+    <dimen name="text_very_large">28sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_very_small">12sp</dimen>
+
+    <dimen name="stroke_width_medium">4dp</dimen>
+    <dimen name="stroke_width_small">2dp</dimen>
+    <dimen name="stroke_width_very_small">1dp</dimen>
+
+    <dimen name="radius_very_large">24dp</dimen>
+    <dimen name="radius_large">12dp</dimen>
+    <dimen name="radius_medium">8dp</dimen>
+    <dimen name="radius_small">4dp</dimen>
+    <dimen name="radius_very_small">2dp</dimen>
+
+    <dimen name="toolbar_elevation">6dp</dimen>
+    <dimen name="icon_button_size">56dp</dimen>
+    <dimen name="backdrop_corner_radius">36dp</dimen>
+    <dimen name="details_poster_elevation">4dp</dimen>
+    <dimen name="details_poster_not_elevation">0dp</dimen>
+    <dimen name="details_appbar_elevation">4dp</dimen>
+    <dimen name="detail_header_height">280dp</dimen>
+
+    <dimen name="shr_product_grid_reveal_height">42dp</dimen>
+    <dimen name="avatar_size">42dp</dimen>
+
+    <!-- Versioned dimens -->
+
+    <dimen name="backdrop_top_padding">58dp</dimen>
+    <dimen name="backdrop_menu_button">14sp</dimen>
+
+
+    <dimen name="shr_staggered_product_grid_spacing_large">30dp</dimen>
+    <dimen name="shr_staggered_product_grid_spacing_small">26dp</dimen>
+    <dimen name="shr_staggered_product_grid_margin_top_first">46dp</dimen>
+    <dimen name="shr_staggered_product_grid_margin_top_second">32dp</dimen>
+    <dimen name="shr_staggered_product_grid_margin_top_third">122dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_width_portrait">165dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_height_portrait">247dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_width_landscape">188dp</dimen>
+    <dimen name="shr_staggered_product_grid_card_height_landscape">140dp</dimen>
+</resources>

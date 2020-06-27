@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199414008630",
+    "firebase_url": "https://pet-adoption-980e1.firebaseio.com",
+    "project_id": "pet-adoption-980e1",
+    "storage_bucket": "pet-adoption-980e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199414008630:android:c13b7732b5178391238197",
+        "android_client_info": {
+          "package_name": "com.example.sahana.petadoption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199414008630-c54ikbqttjekcf556iqsksa4p1jh2fj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIG8URIjXd8F5Sz9K3vCqMVz0yJzmrq2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199414008630-c54ikbqttjekcf556iqsksa4p1jh2fj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
